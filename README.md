@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @firefly440
-- 👀 I’m interested in html
-- 🌱 I’m currently learning how to make a landig page
+👋 Hi there, I’m @firefly440
 
+💡 About Me
+I’m an aspiring web developer with a growing interest in front-end design and clean, efficient code.
 
-<!---
-firefly440/firefly440 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently Learning
+I’m focused on building my first landing page using HTML, and exploring how to make it responsive and visually appealing.
+
+💻 Interests
+
+Web development & design
+
+HTML, CSS, and JavaScript
+
+Learning new tools and frameworks
+
+📫 Let’s Connect
+Feel free to check out my projects and follow my journey here on GitHub!
